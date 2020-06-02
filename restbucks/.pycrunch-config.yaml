@@ -1,0 +1,7 @@
+discovery:
+engine:
+  runtime: django
+env:
+  # everything here will be passed as environment variables to the test runner
+  DJANGO_SETTINGS_MODULE: restbucks.settings
+
